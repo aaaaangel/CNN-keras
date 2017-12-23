@@ -1,11 +1,11 @@
 # CNN-keras
 
-###CNN models
+### CNN models
 
 * AlexNet
 * ResNet
 
-###Visualization of CNN
+### Visualization of CNN
 
 * Visualizing intermediate activations
 * Visualizing convnet filters
